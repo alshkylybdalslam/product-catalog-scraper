@@ -1,5 +1,7 @@
 # Product Catalog Scraper
 
+> An open-source project by **Cartdock** — automation & scraping for e-commerce teams.
+
 A clean, production-style web scraper that exports e-commerce product data
 (title, price, rating, availability) to CSV.
 
